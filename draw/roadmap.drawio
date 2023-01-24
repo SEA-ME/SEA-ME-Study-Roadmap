@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T13:36:54.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.10" etag="LA9Ymz0EdFgKKkxwVVl2" type="github"><diagram name="Page-1" id="uRKl7_90KI2oCN6sLFnV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:55:31.155Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Oq9a4vwcFJK2Kzyn7gTb" version="20.8.10" type="github" pages="2">
+  <diagram name="SEA:ME" id="uRKl7_90KI2oCN6sLFnV">
+    <mxGraphModel dx="2210" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IBw9hKUygagr6fQvgN9t-1" value="PiRacer Assembly" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-2" value="Insturment Cluster&lt;br&gt;Qt/CAN/Arduino/RPi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-3" value="Head Unit&lt;br&gt;Yocto/IPC" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-4" value="PDC&lt;br&gt;RPi&lt;br&gt;Gear in Head-Unit, Instr. Cluster" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-5" value="Driver Simulator" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-6" value="Line Following" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-7" value="Obstacle Avoidance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-8" value="SLAM" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-9" value="Path planning" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-10" value="Self driving" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-11" value="Airport Experience" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-12" value="Digital Tripbook" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-13" value="Smart Charging infrastructure&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-14" value="Personalization in MaaS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-15" value="Embedded" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-16" value="Autonomous&lt;br&gt;Driving" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IBw9hKUygagr6fQvgN9t-17" value="Mobility&lt;br&gt;Ecosystem" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8XyyZ3_nN8_fZQZVOmeG" name="42Mob">
+    <mxGraphModel dx="1360" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
