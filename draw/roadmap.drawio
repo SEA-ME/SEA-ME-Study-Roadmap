@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram name="SEA:ME" id="uRKl7_90KI2oCN6sLFnV">
-        <mxGraphModel dx="1056" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2481" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -8,8 +8,8 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;DES 1&lt;br&gt;PiRacer Assembly&lt;/span&gt;" link="https://github.com/SEA-ME/DES_PiRacer-Assembly" linkTarget="_blank" id="2">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="280" width="240" height="70" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="-575" y="280" width="240" height="70" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="4" target="2" edge="1">
@@ -17,62 +17,67 @@
                 </mxCell>
                 <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;SEA:ME Warm Up&lt;/font&gt;" link="https://github.com/SEA-ME/SEA-ME-warm-up" linkTarget="_blank" id="4">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="200" width="240" height="60" as="geometry"/>
+                        <mxGeometry x="-575" y="200" width="240" height="60" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="23" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="5" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Selection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="305" y="120" width="240" height="60" as="geometry"/>
+                    <mxGeometry x="-575" y="120" width="240" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="6" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="305" y="40" width="240" height="60" as="geometry"/>
+                    <mxGeometry x="-575" y="40" width="240" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="7" target="8" edge="1">
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="7" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="7" target="11" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="164" y="413"/>
+                            <mxPoint x="-165" y="413"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="7" target="11" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;DES 2&lt;br&gt;Instrument Cluster&lt;/span&gt;" link="https://github.com/SEA-ME/DES_Instrument-Cluster" linkTarget="_blank" id="7">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="375" width="240" height="75" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="-575" y="375" width="240" height="75" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="27" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="8" target="9" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;DES 3&lt;br&gt;Head Unit&lt;/span&gt;" link="https://github.com/SEA-ME/DES_Head-Unit" linkTarget="_blank" id="8">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="44" y="490" width="240" height="70" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="-575" y="490" width="240" height="70" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="9" target="10" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-495" y="697" as="sourcePoint"/>
+                        <mxPoint x="-495" y="877" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;DES 4&lt;br&gt;PDC System&lt;/span&gt;" link="https://github.com/SEA-ME/DES_PDC-System" linkTarget="_blank" id="9">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="44" y="595" width="240" height="102" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="-575" y="595" width="240" height="102" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="39" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="10" target="36" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="164" y="1060"/>
+                            <mxPoint x="-455" y="1060"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;DES 5&lt;br&gt;Software Defined Vehicle&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/DES_SDV" linkTarget="_blank" id="10">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="44" y="877" width="240" height="100" as="geometry"/>
+                <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;DES 5&lt;br&gt;SdV: Digital Twin&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/DES_SDV" linkTarget="_blank" id="10">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="-575" y="877" width="240" height="100" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="11" target="12" edge="1">
@@ -81,99 +86,150 @@
                 <mxCell id="33" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="11" target="15" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="700" y="525"/>
+                            <mxPoint x="130" y="525"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ADS 1&lt;br&gt;Lane Detection&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ADS_Autonomous-Lane-Detection" linkTarget="_blank" id="11">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="490" width="240" height="70" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#99CCFF;" parent="1" vertex="1">
+                        <mxGeometry x="-285" y="490" width="240" height="70" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="31" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="12" target="13" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;font style=&quot;font-size: 23px;&quot;&gt;ADS 2&lt;br&gt;Object Detection &amp;amp; Avoidance&lt;/font&gt;" link="https://github.com/SEA-ME/ADS_Object-Detection-and-Avoidance" linkTarget="_blank" id="12">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="595" width="240" height="105" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#99CCFF;" parent="1" vertex="1">
+                        <mxGeometry x="-285" y="595" width="240" height="105" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="13" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ADS 3&lt;br&gt;Road Surface Segmentation&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ADS_Road-Surface-Segmentation" linkTarget="_blank" id="13">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="740" width="240" height="100" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#99CCFF;" parent="1" vertex="1">
+                        <mxGeometry x="-285" y="740" width="240" height="100" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <mxCell id="40" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="14" target="36" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="40" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.187;entryY=-0.055;entryDx=0;entryDy=0;fontSize=23;entryPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-155" y="960" as="sourcePoint"/>
+                        <mxPoint x="-154.94000000000005" y="1026.7" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ADS 4&lt;br&gt;Self-Driving Mail Cart&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ADS_Self-driving-mail-cart" linkTarget="_blank" id="14">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="305" y="880" width="240" height="80" as="geometry"/>
+                <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ADS 4&lt;br&gt;Truck Platooning&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ADS_Self-driving-mail-cart" linkTarget="_blank" id="14">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#99CCFF;" parent="1" vertex="1">
+                        <mxGeometry x="-285" y="880" width="240" height="80" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="34" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="15" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ME 1&lt;br&gt;Digital Trip Book&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ME_Digital-Trip-Book" linkTarget="_blank" id="15">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="580" y="595" width="240" height="105" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="10" y="595" width="240" height="105" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="35" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="16" target="17" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ME 2&lt;br&gt;IoT Enabled Fleet Management&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ME_IoT-Enabled-Fleet-Management" linkTarget="_blank" id="16">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="580" y="740" width="240" height="100" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="10" y="740" width="240" height="100" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="17" target="36" edge="1">
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.886;entryY=0.029;entryDx=0;entryDy=0;fontSize=23;entryPerimeter=0;" parent="1" source="17" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="700" y="1060"/>
-                        </Array>
+                        <Array as="points"/>
+                        <mxPoint x="130.6800000000003" y="1031.7399999999998" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;ME 3&lt;br&gt;Airport Experience&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/ME_Airport-Experience" linkTarget="_blank" id="17">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                        <mxGeometry x="580" y="880" width="240" height="80" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontColor=#000000;" parent="1" vertex="1">
+                        <mxGeometry x="10" y="880" width="240" height="80" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <mxCell id="36" value="Internships / Jobs / Research" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-                    <mxGeometry x="235" y="1030" width="380" height="60" as="geometry"/>
+                    <mxGeometry x="-176" y="1030" width="380" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="42" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=23;" parent="1" vertex="1">
-                    <mxGeometry x="100" y="40" width="30" height="60" as="geometry"/>
+                    <mxGeometry x="-680" y="40" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Foundation Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-                    <mxGeometry x="820" y="300" width="190" height="40" as="geometry"/>
+                <mxCell id="52" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Foundation Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="-900" y="400" width="190" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
-                    <mxGeometry x="860" y="200" width="20" height="240" as="geometry"/>
+                <mxCell id="53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="-760" y="280" width="20" height="280" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
-                    <mxGeometry x="860" y="40" width="20" height="140" as="geometry"/>
+                <mxCell id="54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="-760" y="40" width="20" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Entry&amp;nbsp;Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-                    <mxGeometry x="845" y="90" width="140" height="40" as="geometry"/>
+                <mxCell id="55" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Entry&amp;nbsp;Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="-875" y="130" width="140" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Innovation Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-                    <mxGeometry x="820" y="634.5" width="190" height="40" as="geometry"/>
+                <mxCell id="56" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Innovation Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="-900" y="685" width="190" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
-                    <mxGeometry x="860" y="479" width="20" height="351" as="geometry"/>
+                <mxCell id="57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="-760" y="580" width="20" height="250" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
-                    <mxGeometry x="860" y="880" width="20" height="120" as="geometry"/>
+                <mxCell id="58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=21;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="-760" y="880" width="20" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Integration &lt;br&gt;Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-                    <mxGeometry x="855" y="910" width="120" height="60" as="geometry"/>
+                <mxCell id="59" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Integration &lt;br&gt;Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="-865" y="910" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;SCS 1&lt;br&gt;Mixed Criticality System&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/DES_SDV" linkTarget="_blank" id="60">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontColor=#000000;" vertex="1" parent="1">
+                        <mxGeometry x="298" y="877" width="240" height="100" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="61" style="edgeStyle=none;html=1;fontSize=23;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.52;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9" target="60">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-450" y="700" as="sourcePoint"/>
+                        <mxPoint x="418" y="883" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-450" y="726"/>
+                            <mxPoint x="420" y="726"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=23;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="60" target="36">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="420" y="1045"/>
+                        </Array>
+                        <mxPoint x="-776" y="977" as="sourcePoint"/>
+                        <mxPoint x="174" y="1060" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <UserObject label="&lt;span style=&quot;font-size: 24px;&quot;&gt;CS 1&lt;br&gt;Over The Air Update&lt;br&gt;&lt;/span&gt;" link="https://github.com/SEA-ME/DES_SDV" linkTarget="_blank" id="64">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontColor=#000000;" vertex="1" parent="1">
+                        <mxGeometry x="568" y="876" width="240" height="100" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="65" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=23;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="64" target="36">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="688" y="1060"/>
+                            <mxPoint x="468" y="1060"/>
+                        </Array>
+                        <mxPoint x="468" y="977.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="200" y="1060" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=none;html=1;fontSize=23;exitX=0.791;exitY=0.994;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-385.1600000000001" y="690.388" as="sourcePoint"/>
+                        <mxPoint x="688" y="870" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-385" y="714"/>
+                            <mxPoint x="690" y="714"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
